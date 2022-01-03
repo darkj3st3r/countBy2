@@ -9,3 +9,11 @@ def countingBy2Jacob():
         variable += 2
 
 countingBy2Jacob()
+# matthew hohenstein
+def countingby2():
+    variable = 2
+    while True:
+        print(variable)
+        variable += 2
+
+countingby2()
